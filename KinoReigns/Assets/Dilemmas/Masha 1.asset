@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7bf6e412f94ab4599e446d697ae31f, type: 3}
+  m_Name: Masha 1
+  m_EditorClassIdentifier: 
+  <ActorSprite>k__BackingField: {fileID: 21300000, guid: 56114c9f99deb824f87b53fbd42ca971, type: 3}
+  <BackgroundColor>k__BackingField: {r: 0.3647059, g: 0.53333336, b: 0.34901962, a: 1}
+  <Description>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:bee3575fd87ecc84a8e60d58fbb2e95b
+    m_TableEntryReference:
+      m_KeyId: 1390449299456
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <ActorName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:bee3575fd87ecc84a8e60d58fbb2e95b
+    m_TableEntryReference:
+      m_KeyId: 371891933184
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LeftAction>k__BackingField:
+    <ActionDescription>k__BackingField:
+      m_TableReference:
+        m_TableCollectionName: GUID:bee3575fd87ecc84a8e60d58fbb2e95b
+      m_TableEntryReference:
+        m_KeyId: 2636223351873536
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    <Money>k__BackingField: 0
+    <Audience>k__BackingField: -25
+    <Team>k__BackingField: -15
+    <Confidence>k__BackingField: 15
+  <RightAction>k__BackingField:
+    <ActionDescription>k__BackingField:
+      m_TableReference:
+        m_TableCollectionName: GUID:bee3575fd87ecc84a8e60d58fbb2e95b
+      m_TableEntryReference:
+        m_KeyId: 124397658345472
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    <Money>k__BackingField: 0
+    <Audience>k__BackingField: 0
+    <Team>k__BackingField: 0
+    <Confidence>k__BackingField: -25
+  references:
+    version: 2
+    RefIds: []

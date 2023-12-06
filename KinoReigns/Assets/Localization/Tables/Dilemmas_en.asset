@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dilemmas_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: bee3575fd87ecc84a8e60d58fbb2e95b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 145961553920
+    m_Localized: Viktor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270943424512
+    m_Localized: Sonya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371891933184
+    m_Localized: Masha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461406769152
+    m_Localized: Marfa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538338693120
+    m_Localized: Lenya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 622052806656
+    m_Localized: Kostya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010172727296
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124397658345472
+    m_Localized: Test Right Action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124309959643136
+    m_Localized: Test Left Action
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

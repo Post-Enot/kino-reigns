@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Dilemmas Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Dilemmas
+  m_TableCollectionNameGuidString: bee3575fd87ecc84a8e60d58fbb2e95b
+  m_Entries:
+  - m_Id: 145961553920
+    m_Key: Actor Viktor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270943424512
+    m_Key: Actor Sonya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371891933184
+    m_Key: Actor Masha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461406769152
+    m_Key: Actor Marfa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538338693120
+    m_Key: Actor Lenya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 622052806656
+    m_Key: Actor Kostya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010172727296
+    m_Key: Viktor 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229400608768
+    m_Key: Sonya 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1390449299456
+    m_Key: Masha 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1473005785088
+    m_Key: Dilemma Marfa Test 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1517670928384
+    m_Key: Leonid 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1565746040832
+    m_Key: Kostya 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124309959643136
+    m_Key: Kostya 1 left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124397658345472
+    m_Key: Masha 1 R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619716165165056
+    m_Key: Loose description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619933442695168
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628776503533568
+    m_Key: Viktor 1 Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628988315885568
+    m_Key: Kostya 1 Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633000020860928
+    m_Key: Kostya 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633249271570432
+    m_Key: k 2 l
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633503274426368
+    m_Key: K 2 r
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2634725477834752
+    m_Key: L 2 l
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2634794864205824
+    m_Key: L 1 R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2635481744400384
+    m_Key: S 1 l
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2635622211641344
+    m_Key: S 1 R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2636223351873536
+    m_Key: M 1 L
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2637134082072576
+    m_Key: V 1 R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638326652723200
+    m_Key: Marfa 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638402502516736
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638884528709632
+    m_Key: Marfa 1 Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2639138779029504
+    m_Key: Marfa 1 Right
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5072269309816602648
+  references:
+    version: 2
+    RefIds:
+    - rid: 5072269309816602648
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1693705442389
